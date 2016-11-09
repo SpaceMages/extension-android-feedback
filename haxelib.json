@@ -1,0 +1,11 @@
+{
+  "name": "extension-android-feedback",
+  "url": "https://github.com/spacemages/extension-android-feedback",
+  "license": "MIT",
+  "tags": ["android","feedback","lime","openfl","feedback"],
+  "description": "Lime extension for sending feedback to Google Play on most android.",
+  "version": "1.0.0",
+  "releasenote": "First release",
+  "contributors": ["mastef"],
+  "dependencies": { }
+}
